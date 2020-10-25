@@ -62,6 +62,22 @@ public static String parens(int num){
   // num = 6 ()()()   (()())  ((()))  ()(())  (())()
 }
 
+//4. Permutations: Given a string, write a function that returns a list of all permutations of the string. A permutation is an arrangement of all or part of a set of objects, with regard to the order of the arrangement. For instance, the words ‘bat’ and ‘tab’ represents two distinct permutation (or arrangements) of a similar three       letter word.             
+
+//     Assume no duplicate characters.
+
+
+public static String[] permutations(String word){
+  
+}
+
+
+//5. Power Set: Given an array of values, write a function that returns all subsets of that array. You can assume no duplicates.  (Follow up - what if there are duplicates?) 
+
+public static Object[] powerSet(Object[] array){
+  
+}
+
 public static void main(String[] args) {
 
   int [] a1 = {1,2,3,4,5};
